@@ -16,6 +16,8 @@ Recycler view
 ![InfiniteList](https://github.com/kenny1har/infinite-list/blob/master/demo2.gif?raw=true "InfiniteList")
 
 How to use :
+npm install --save react-native-infinite-list
+
 ```javascript
 constructor(props) {
   super(props);
