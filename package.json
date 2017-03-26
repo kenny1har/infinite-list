@@ -1,6 +1,6 @@
 {
   "name": "react-native-infinite-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "InfiniteList : ListView replacement for React Native - Recycler View",
   "main": "InfiniteList.js",
   "keywords": [
@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/kenny1har/infinite-list/issues"
   },
-  "homepage": "https://github.com/kenny1har/infinite-list"
+  "homepage": "https://github.com/kenny1har/infinite-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenny1har/infinite-list.git"
+  }
 }
